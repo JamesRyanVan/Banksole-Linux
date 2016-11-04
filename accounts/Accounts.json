@@ -1,0 +1,21 @@
+{
+	"accounts" : 
+	{
+		"12345" : 
+		{
+			"balance" : 2400,
+			"fname" : "John",
+			"lname" : "Doe",
+			"pin" : "81dc9bdb52d04dc20036dbd8313ed055",
+			"userlevel" : 1
+		},
+		"23971" : 
+		{
+			"balance" : 100000,
+			"fname" : "James",
+			"lname" : "Van",
+			"pin" : "81dc9bdb52d04dc20036dbd8313ed055",
+			"userlevel" : 0
+		}
+	}
+}
