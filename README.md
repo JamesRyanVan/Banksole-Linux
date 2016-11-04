@@ -1,6 +1,6 @@
 # Banksole
 
-Banksole is a commandline program which mimics a banking system. Writen in C++, it allows users to deposit, withdraw, transfer fake curreny. This work is bassed roughly off of LKembers program [found here](https://github.com/Lkember/BankSystem). This was written for a school project and is not meant in any form to be a real banking system. It comes with two accounts, administrator, and regular users. 
+Banksole is a linux commandline program which mimics a banking system. Writen in C++, it allows users to deposit, withdraw, transfer fake curreny. This work is bassed roughly off of LKembers program [found here](https://github.com/Lkember/BankSystem). This was written for a school project and is not meant in any form to be a real banking system. It comes with two accounts, administrator, and regular users. 
 
 Users Can:
   - Deposit Money
@@ -41,7 +41,7 @@ Banksole uses a number of open source projects to work properly:
 
 This has only been tested on Ubuntu 14.04.5 LTS, but should work on most distributions of linux.
 
-Download and extract the [latest pre-built release](https://github.com/JamesRyanVan).
+Download and extract the [latest pre-built release](https://github.com/JamesRyanVan/Banksole-Linux/releases).
 
 
 #### Building for source
