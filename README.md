@@ -43,6 +43,26 @@ This has only been tested on Ubuntu 14.04.5 LTS, but should work on most distrib
 
 Download and extract the [latest pre-built release](https://github.com/JamesRyanVan/Banksole-Linux/releases).
 
+Open the directory where you saved the binary in Terminal. Now run:
+```sh
+$ chmod +s Banksole
+```
+Then Run the application with
+```sh
+$ ./Banksole
+```
+During first time use. It will prompt you that it cannot find the database file. 
+Anwser NO to the first prompt.
+```sh
+Would you like to enter the path manually? (Y/N)
+n
+```
+Answer YES to the second prompt to create the default database.
+```sh
+Would you like us to (re)make the default database? (Y/N)
+y
+```
+The database should be created if everything went to plan. Then you can continue you login with the accounts listed at the beginning. 
 
 #### Building for source
 For production release:
